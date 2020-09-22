@@ -28,3 +28,13 @@
 .rnd {
     border-radius: 2em;
 }
+
+@media (max-width:768px) {
+    #logo {
+        max-width: 50px;
+    }
+}
+
+.footer-phone {
+    font-size: 2em;
+}
